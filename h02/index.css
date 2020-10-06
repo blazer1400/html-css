@@ -1,0 +1,20 @@
+body, html {
+    background-color:white;
+    font-family:arial;
+    margin:0;
+    margin-top:-11px;
+}
+header {
+    background-color: blue;
+}
+.buttons button {
+    border: 1px solid lightblue;
+    background-color: lightblue;
+    padding: 5px 10px;
+    font-size:15px;
+    transition-duration:0.5s;
+    margin-left:-4px;
+}
+.buttons button:hover {
+    border: 1px solid black;
+}
