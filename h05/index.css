@@ -1,0 +1,10 @@
+body {
+    margin:0;
+}
+.images {
+    width:50%;
+    margin:auto;
+}
+.images img {
+    display:inline-block;
+}
