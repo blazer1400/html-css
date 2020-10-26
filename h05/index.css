@@ -1,10 +1,14 @@
-body {
-    margin:0;
-}
-.images {
+
+.image{
     width:50%;
-    margin:auto;
+    float:left;
 }
-.images img {
-    display:inline-block;
+.image img {
+    float:right;
+    padding:0 5px;
+    width:610px;
+}
+
+.imagestack img {
+    width:600px;
 }
