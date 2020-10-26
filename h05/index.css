@@ -1,4 +1,6 @@
-
+body {
+    background-color:rgb(252, 235, 235);
+}
 .image{
     width:50%;
     float:left;
@@ -11,4 +13,11 @@
 
 .imagestack img {
     width:600px;
+}
+nav a {
+    margin-left:10px;
+}
+.articles {
+    margin:auto;
+    display:inline;
 }
