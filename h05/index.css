@@ -1,7 +1,7 @@
 body {
     background-color:rgb(252, 235, 235);
 }
-.image{
+.image {
     width:50%;
     float:left;
 }
@@ -19,5 +19,13 @@ nav a {
 }
 .articles {
     margin:auto;
-    display:inline;
+    width:66%;
+    display:grid;
+}
+.grid {
+    grid-area:main;
+}
+.articles article {
+    display:inline-block;
+    max-width:40%;
 }
