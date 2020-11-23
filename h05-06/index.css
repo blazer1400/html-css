@@ -29,3 +29,6 @@ nav a {
     display:inline-block;
     max-width:40%;
 }
+form {
+    display:block;
+}
