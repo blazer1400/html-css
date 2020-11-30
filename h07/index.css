@@ -34,9 +34,6 @@ section article h1 {
 }
 
 @media all and (max-width: 724px) {
-    body {
-        width:79%;
-    }
     nav {
         margin:0;
         background-color:#fcf4ec;
