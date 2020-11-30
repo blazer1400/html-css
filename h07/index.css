@@ -76,6 +76,10 @@ section article h1 {
         grid-template-areas:
         'menu main main'
         'menu main main';
+        grid-template-columns:33% 33% 33%;
+    }
+    article p img {
+        width:240px;
     }
     .news {
         margin-left:5px;
