@@ -70,7 +70,7 @@ section article h1 {
     }
 }
 /* tablet */
-@media all and (max-width:1050px) {
+@media all and (min-width:724px) and (max-width:1040px) {
     .main {
         display:grid;
         grid-template-areas:
